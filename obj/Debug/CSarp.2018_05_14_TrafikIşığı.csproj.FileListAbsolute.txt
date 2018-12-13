@@ -1,0 +1,26 @@
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\bin\Debug\CSarp.2018_05_14_TrafikIşığı.exe.config
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\bin\Debug\CSarp.2018_05_14_TrafikIşığı.exe
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\bin\Debug\CSarp.2018_05_14_TrafikIşığı.pdb
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.csprojAssemblyReference.cache
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp._2018_05_14_TrafikIşığı.Form1.resources
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp._2018_05_14_TrafikIşığı.Properties.Resources.resources
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.csproj.GenerateResource.cache
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.csproj.CoreCompileInputs.cache
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.exe
+C:\Users\EB-MZ-CLT-179\source\repos\CSharp\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.pdb
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\CSarp.2018_05_14_TrafikIşığı.exe.config
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.exe
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.pdb
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.csprojResolveAssemblyReference.cache
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp._2018_05_14_TrafikIşığı.Form1.resources
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp._2018_05_14_TrafikIşığı.Properties.Resources.resources
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\obj\Debug\CSarp.2018_05_14_TrafikIşığı.csproj.GenerateResource.Cache
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\CSarp.2018_05_14_TrafikIşığı.exe
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\CSarp.2018_05_14_TrafikIşığı.pdb
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\mscorlib.dll
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\tr\mscorlib.resources.dll
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\normidna.nlp
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\normnfc.nlp
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\normnfd.nlp
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\normnfkc.nlp
+F:\kodlama\c# kule ornekler\CSarp.2018_05_14_TrafikIşığı\bin\Debug\normnfkd.nlp
